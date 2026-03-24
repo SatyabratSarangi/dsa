@@ -1,4 +1,4 @@
-package Easy;
+
 public class Q2MaxMinArray {
     public static void main(String args[])
     {

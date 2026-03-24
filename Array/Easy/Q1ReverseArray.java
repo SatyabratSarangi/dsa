@@ -1,4 +1,4 @@
-package Easy;
+
 public class Q1ReverseArray
 {
     public static void main(String args[])

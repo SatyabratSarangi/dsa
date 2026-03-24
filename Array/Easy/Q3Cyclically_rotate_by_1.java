@@ -1,4 +1,4 @@
-package Easy;
+
 // Cyclically rotate by 1
 
 //method 1

@@ -1,4 +1,4 @@
-package Easy;
+
 import java.util.Arrays;
 
 public class Q4Sortntop {

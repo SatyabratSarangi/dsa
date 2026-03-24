@@ -1,4 +1,4 @@
-package Easy;
+
 public class Q5TwoSum2 {
     public static int[] twoSum(int[] numbers, int target) {
         int lp=0;int rp=numbers.length-1;
